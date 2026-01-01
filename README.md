@@ -21,7 +21,7 @@ The dashboard provides insights into sales, profit, quantity sold, returns, cust
 - Business Sales Dataset
 
 ## Project
-![image]()
+![image](https://github.com/ratandeepsingh246-prog/Business_Sales/blob/ae723329ddc024a8498fa401c431233a6c7b1193/Screenshot%20(183).png)
 ![image](https://github.com/ratandeepsingh246-prog/Business_Sales/blob/aed6a81dcd902f9e3bc2d9f23d4e3a3776c0c763/Screenshot%20(184).png)
 
 ## Purpose
