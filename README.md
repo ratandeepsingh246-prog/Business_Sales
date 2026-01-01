@@ -22,7 +22,7 @@ The dashboard provides insights into sales, profit, quantity sold, returns, cust
 
 ## Project
 ![image]()
-![image]()
+![image](https://github.com/ratandeepsingh246-prog/Business_Sales/blob/aed6a81dcd902f9e3bc2d9f23d4e3a3776c0c763/Screenshot%20(184).png)
 
 ## Purpose
 To support data-driven decision-making by visualizing key business metrics in a clear and interactive format.
